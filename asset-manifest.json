@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/----test-landing/static/css/main.96754fdc.css",
-    "main.js": "/----test-landing/static/js/main.34754a64.js",
+    "main.css": "/----test-landing/static/css/main.4cac1549.css",
+    "main.js": "/----test-landing/static/js/main.0ebc2146.js",
     "static/js/787.5530211c.chunk.js": "/----test-landing/static/js/787.5530211c.chunk.js",
     "static/media/01.png": "/----test-landing/static/media/01.c6c24680eff48b6c5793.png",
     "static/media/02.png": "/----test-landing/static/media/02.d520e1739bb3b27c453a.png",
@@ -14,18 +14,20 @@
     "static/media/СтаканИЗвездочка-min.png": "/----test-landing/static/media/СтаканИЗвездочка-min.986e2cf47de818ae6a95.png",
     "static/media/МеткаНаКарте-min.png": "/----test-landing/static/media/МеткаНаКарте-min.98ffb189bd73b88449f9.png",
     "static/media/Полоски-min.png": "/----test-landing/static/media/Полоски-min.9c53273cc55fb1a31623.png",
+    "static/media/Самокат-Плюс-min.png": "/----test-landing/static/media/Самокат-Плюс-min.bce9ded7e188713bc7b2.png",
+    "static/media/Самокт-КругНадпись-min.png": "/----test-landing/static/media/Самокт-КругНадпись-min.727e21a81ac52b30d851.png",
     "static/media/scooterX3-min.svg": "/----test-landing/static/media/scooterX3-min.46380b31d8870789d3bd6212df909bd7.svg",
     "static/media/0руб-min.svg": "/----test-landing/static/media/0руб-min.7d620468ce5bbcc6057f2641a2f0beb5.svg",
     "static/media/Yandex Go Ru black-min.svg": "/----test-landing/static/media/Yandex Go Ru black-min.7316a7a82296def1ce3b301278f59f61.svg",
     "static/media/Clock-min.svg": "/----test-landing/static/media/Clock-min.89d17f1f0025b68b730a858f9695819e.svg",
     "static/media/phoneCharge-min.svg": "/----test-landing/static/media/phoneCharge-min.7841e6b819a5124f7c9a9429acf724f8.svg",
     "index.html": "/----test-landing/index.html",
-    "main.96754fdc.css.map": "/----test-landing/static/css/main.96754fdc.css.map",
-    "main.34754a64.js.map": "/----test-landing/static/js/main.34754a64.js.map",
+    "main.4cac1549.css.map": "/----test-landing/static/css/main.4cac1549.css.map",
+    "main.0ebc2146.js.map": "/----test-landing/static/js/main.0ebc2146.js.map",
     "787.5530211c.chunk.js.map": "/----test-landing/static/js/787.5530211c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96754fdc.css",
-    "static/js/main.34754a64.js"
+    "static/css/main.4cac1549.css",
+    "static/js/main.0ebc2146.js"
   ]
 }
