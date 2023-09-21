@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/----test-landing/static/css/main.a53e2f32.css",
-    "main.js": "/----test-landing/static/js/main.9f738de8.js",
+    "main.css": "/----test-landing/static/css/main.2ba96fc0.css",
+    "main.js": "/----test-landing/static/js/main.d4168018.js",
     "static/js/787.5530211c.chunk.js": "/----test-landing/static/js/787.5530211c.chunk.js",
     "static/media/01.png": "/----test-landing/static/media/01.c6c24680eff48b6c5793.png",
     "static/media/02.png": "/----test-landing/static/media/02.d520e1739bb3b27c453a.png",
@@ -23,12 +23,12 @@
     "static/media/phoneCharge-min.svg": "/----test-landing/static/media/phoneCharge-min.7841e6b819a5124f7c9a9429acf724f8.svg",
     "index.html": "/----test-landing/index.html",
     "static/media/arrowRight.svg": "/----test-landing/static/media/arrowRight.3422611cf84697ee42ea.svg",
-    "main.a53e2f32.css.map": "/----test-landing/static/css/main.a53e2f32.css.map",
-    "main.9f738de8.js.map": "/----test-landing/static/js/main.9f738de8.js.map",
+    "main.2ba96fc0.css.map": "/----test-landing/static/css/main.2ba96fc0.css.map",
+    "main.d4168018.js.map": "/----test-landing/static/js/main.d4168018.js.map",
     "787.5530211c.chunk.js.map": "/----test-landing/static/js/787.5530211c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a53e2f32.css",
-    "static/js/main.9f738de8.js"
+    "static/css/main.2ba96fc0.css",
+    "static/js/main.d4168018.js"
   ]
 }
