@@ -5,26 +5,16 @@
     align-items: center; */
     margin: auto;
     padding: 0;
+    padding-bottom: 128px;
     /* background-color: #000000; */    
     font-family: 'YS Text', 'Arial', sans-serif;
     color: black;    
     position: 'relative';    
 }
 
-/* @media screen and (max-width: 1279px) {
+@media screen and (max-width: 375px) {
     .root {
-        max-width: 1024px;
+        max-width: 375px;
+        padding: 0;
     }
 }
-
-@media screen and (max-width: 1023px) {
-    .root {
-        max-width: 768px;
-    }
-}
-
-@media screen and (max-width: 767px) {
-    .root {
-        max-width: 320px;
-    }
-} */
